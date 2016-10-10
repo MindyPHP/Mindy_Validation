@@ -1,0 +1,28 @@
+{
+  "name": "mindy/validation",
+  "homepage": "https://github.com/MindyPHP/Mindy_Validation",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Mindy\\Validation\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*",
+    "phpunit/php-code-coverage": "*"
+  },
+  "authors": [
+    {
+      "name": "Maxim Falaleev",
+      "email": "max@studio107.ru",
+      "homepage": "http://studio107.ru",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/MindyPHP/Mindy_Validation/issues?state=open"
+  }
+}
